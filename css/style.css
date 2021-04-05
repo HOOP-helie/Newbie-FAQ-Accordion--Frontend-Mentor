@@ -108,7 +108,6 @@ button {
   transform: rotate(180deg);
 }
 .active ~ .answer {
-  /* display: block; */
   padding-bottom: 8px;
   max-height: 80px;
   transition: max-height 0.3s ease-in, padding-bottom 0.3s ease-in;
