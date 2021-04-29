@@ -59,7 +59,6 @@ body {
 .questions-container {
   margin: 1rem auto;
   width: 85%;
-  cursor: pointer;
 }
 
 .qa-container {
@@ -72,6 +71,9 @@ body {
   font-size: 0.85rem;
 }
 
+.question:hover {
+  cursor: pointer;
+}
 
 button {
   background: transparent;
